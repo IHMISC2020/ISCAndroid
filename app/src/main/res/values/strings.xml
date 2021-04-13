@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ISC</string>
+    <string name="prompt_ip">Serveur IP</string>
+    <string name="prompt_port">Serveur port</string>
+    <string name="prompt_msg">Message à envoyer</string>
+    <string name="connection_button">Connexion au serveur</string>
+    <string name="recepetion_message">Reçu : </string>
+    <string name="ISC">Interactions sans contact</string>
+    <string name="basic_mode">Lancer en mode basique</string>
+    <string name="captor_mode">Lancer en mode capteur</string>
+
+    <string name="calibration_point_one">Pointez avec votre doigt le point en haut a gauche et cliquez avec le pad n\'importe où sur l\'écran</string>
+    <string name="calibration_point_two">Pointez avec votre doigt le point en bas a droite et cliquez avec le pad n\'importe où sur l\'écran</string>
+
+    <string name="start">Tappez pour commencer</string>
+    <string name="finished">Terminé</string>
+    <string name="results">Résultats</string>
+    <string name="results_details">Résultats détaillés</string>
+    <string name="linearRegression">a = %f\nb = %f\nr^2 = %f</string>
+    <string name="trial">Essai %d</string>
+    <string name="difficulty_time">Difficulté: %f, Durée: %d ms</string>
+    <string name="export_string">Trial = %d Difficulty = %f Time = %d ms \n</string>
+    <string name="quitter">Exit</string>
+    <string name="visualize">Visualiser</string>
+    <string name="title_activity_plot">PlotActivity</string>
+    <string name="plot">Représentation graphique</string>
+    <string name="end_text">Retour</string>
+    <string name="label_x_axis">ID</string>
+    <string name="label_y_axis">Tm (ms)</string>
+    <string name="replay">Restart</string>
+    <string name="export">Export</string>
+</resources>
